@@ -1,5 +1,5 @@
 first line
-second line :-> i am changing this line by master
+secondi line :-> i am changing this line by master
 third line
 fourth line from dev1
 fifth line from dev1
