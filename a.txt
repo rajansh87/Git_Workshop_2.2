@@ -1,6 +1,6 @@
 first line
 secondi line :-> i am changing this line by master
-third line
+third line :-> i am changing this line by master
 fourth line from dev1
 fifth line from dev1
 sixth line from dev1
